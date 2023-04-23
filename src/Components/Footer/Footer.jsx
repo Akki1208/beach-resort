@@ -12,9 +12,9 @@ export default function Footer() {
         <a
           target="_blank"
           rel="noreferrer"
-          href="https://www.facebook.com/SamiurRahmanMukul"
+          href="https://www.instagram.com/_aakash_akki_1/?igshid=ZDdkNTZiNTM%3D"
         >
-          Samiur Rahman Mukul
+          Aakash Vishwakarma
         </a>
       </p>
     </footer>
